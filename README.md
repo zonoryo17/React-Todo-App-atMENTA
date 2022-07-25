@@ -1,2 +1,3 @@
-# React-Todo-App-atMENTA
-MENTAのTodoアプリ作成課題
+# React-Todo-App
+Todoアプリ作成
+実装Ver.1
